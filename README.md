@@ -1,2 +1,2 @@
 # belly-button-project
-Explore the `Belly Button Biodiversity` dataset to build an interactive dashboard using Plotly.js and deploy your Flask app to Heroku.
+Explore the `Belly Button Biodiversity` dataset to build an interactive visualizations and dashboard using Plotly.js and deploy your Flask app to Heroku.

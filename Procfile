@@ -1,1 +1,1 @@
-web: gunicorn belly-button-project.app:app
+web: gunicorn belly-button-biodiversity.app:app
